@@ -24,7 +24,8 @@ This repository contains code and data related to predicting whether a given obj
 
 All the machine learning code, including data exploration, preprocessing, model training using logistic regression, and evaluation, is directly written in Google Colab. Open the Google Colab notebook for a step-by-step walkthrough.
 
-[Open in Google Colab](#) (https://colab.research.google.com/drive/10qDiidvdByF_I9UQZ_w2VtQHeXT7AZXC)
+[Open in Google Colab] <br>
+(#) (https://colab.research.google.com/drive/10qDiidvdByF_I9UQZ_w2VtQHeXT7AZXC)
 
 ## Usage
 
